@@ -12,7 +12,7 @@
 }
 
 .outside {
-    width: 900px;
+    width: 992px;
     height:1080px;
     border: 0px solid rgb(60, 101, 235);
     display: flex;
@@ -23,7 +23,7 @@
 }
 
 .inside-title {
-    width: 900px;
+    width: 992px;
     height: 200px;
     font-size: 26px;
     border: 2px solid rgb(192, 189, 190);
